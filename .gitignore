@@ -34,6 +34,7 @@ htmlcov/
 # Environment
 .env
 .env.*
+!.env.example
 
 # Project data
 data/
