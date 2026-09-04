@@ -1,4 +1,4 @@
-"""scenemaker: a scene creation toolkit."""
+"""scenemaker backend: templates, selfies, and AI render jobs for the iPhone app."""
 
 __version__ = "0.1.0"
 
